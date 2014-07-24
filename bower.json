@@ -1,0 +1,18 @@
+{
+  "name": "datejs",
+  "version": "1.0 Alpha-1",
+  "codename": "datejs",
+  "homepage": "http://www.datejs.com/",
+  "authors": [
+    "Coolite Inc. http://www.coolite.com/",
+  ],
+  "description": "Datejs is an open-source JavaScript Date Library.",
+  "main": "date.js",
+  "keywords": [
+    "js",
+    "javascript",
+    "date"
+  ],
+  "license": "MIT",
+  "private": false
+}
