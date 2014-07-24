@@ -4,7 +4,7 @@
   "codename": "datejs",
   "homepage": "http://www.datejs.com/",
   "authors": [
-    "Coolite Inc. http://www.coolite.com/",
+    "Coolite Inc. http://www.coolite.com/"
   ],
   "description": "Datejs is an open-source JavaScript Date Library.",
   "main": "date.js",
